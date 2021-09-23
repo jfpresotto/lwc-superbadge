@@ -39,8 +39,11 @@
     "**/{aura|lwc}/**": [
       "eslint"
     ]
+<<<<<<< HEAD
   },
   "dependencies": {
     "npm-git-install": "^0.3.0"
+=======
+>>>>>>> master
   }
 }
